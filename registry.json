@@ -1,0 +1,30 @@
+{
+  "plugins": [
+    {
+      "id": "opencode",
+      "name": "OpenCode",
+      "version": "0.1.0",
+      "vendor": "OpenCode",
+      "description": {
+        "zh-CN": "接入 OpenCode CLI：server 模式复用、模型发现、Build/Plan 权限模式、会话恢复与上下文压缩。",
+        "en-US": "Integrates the OpenCode CLI: reused server mode, model discovery, Build/Plan permission modes, session resume and context compaction."
+      },
+      "tarball": "https://raw.githubusercontent.com/zhufish-aa/nautilo-provider-registry/main/packages/opencode-0.1.0.tgz",
+      "sha256": "61457fa268c45d1070073d28e7430b9809e87acbcd695aa95a6c97dc38539601",
+      "minAppVersion": "0.1.0"
+    },
+    {
+      "id": "trae",
+      "name": "Trae",
+      "version": "0.1.0",
+      "vendor": "ByteDance",
+      "description": {
+        "zh-CN": "接入 Trae CLI：官方 traecli 走 ACP JSON-RPC，开源 trae-agent 走纯文本 run，按二进制自动切换。",
+        "en-US": "Integrates the Trae CLI: official traecli over ACP JSON-RPC, open-source trae-agent via plain-text run, switched automatically by binary detection."
+      },
+      "tarball": "https://raw.githubusercontent.com/zhufish-aa/nautilo-provider-registry/main/packages/trae-0.1.0.tgz",
+      "sha256": "440d1a1adcddd53f453332f1b50f4ab12259e292cfd2a447bab4261cb20ce006",
+      "minAppVersion": "0.1.0"
+    }
+  ]
+}
