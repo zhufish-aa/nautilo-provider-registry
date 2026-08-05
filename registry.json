@@ -29,15 +29,15 @@
     {
       "id": "pi",
       "name": "Pi",
-      "version": "0.2.2",
+      "version": "0.2.5",
       "vendor": "Pi",
       "description": {
-        "zh-CN": "接入 Pi coding agent：原生 JSONL RPC、会话恢复、模型发现、第三方 API 实时切换，以及 Windows PowerShell 兼容。",
-        "en-US": "Integrates the Pi coding agent with native JSONL RPC, session resume, model discovery, live third-party API switching, and Windows PowerShell compatibility."
+        "zh-CN": "接入 Pi coding agent：原生 JSONL RPC、会话恢复、模型与推理强度实时切换、Skill/MCP 注入、上下文压缩及 Windows PowerShell 兼容。",
+        "en-US": "Integrates the Pi coding agent with native JSONL RPC, session resume, live model and reasoning switching, Skill/MCP injection, context compaction, and Windows PowerShell compatibility."
       },
-      "tarball": "https://cdn.jsdelivr.net/gh/zhufish-aa/nautilo-provider-registry@main/packages/pi-0.2.2.tgz",
-      "sha256": "5cab74c461fb476fcfae8fe5894bdf1a6ce93a961918d72453ac76f3aaf45131",
-      "minAppVersion": "0.2.1"
+      "tarball": "https://cdn.jsdelivr.net/gh/zhufish-aa/nautilo-provider-registry@main/packages/pi-0.2.5.tgz",
+      "sha256": "08f02e5a89e7d05af3b5812ad51b8a3140c76addd91b82119b04862a8384d3ea",
+      "minAppVersion": "0.2.5"
     }
   ]
 }
