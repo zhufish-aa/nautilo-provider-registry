@@ -54,3 +54,14 @@ packages/          # 官方插件的 .tgz 安装包（通过 raw URL 下载）
 | `tarball` | 是 | `.tgz` 下载地址（HTTPS） |
 | `sha256` | 推荐 | tar 球校验和；安装时校验，缺失则跳过校验（不建议） |
 | `minAppVersion` | 否 | 最低应用版本 |
+
+## 官方原生插件（Nautilo 0.2.14 起）
+
+官方发布包含 OpenCode、Trae、Pi、Oh My Pi、Command Code、DeepSeek Harness 和 Codex Plugin Manager。
+每个插件提供 `win32-x64`、`darwin-x64`、`darwin-arm64`、`linux-x64` 四种原生包，下载地址指向 [Nautilo 的 GitHub Release](https://github.com/zhufish-aa/Nautilo/releases)。
+
+- `platforms` 是以平台和架构为键的对象；每项包含该包的 `tarball` 与 `sha256`。
+- Nautilo 0.2.14 起根据当前系统选择对应的包及校验值。没有匹配的平台时，不回退安装其他系统的二进制。
+- 顶层 `tarball` 与 `sha256` 保留 Windows x64 下载地址，兼容既有 Windows 客户端。
+- 原生包包含 `agenthub-plugin.json` 与可执行程序，Unix 包保留执行权限。清单的 `main` 指向程序名，Windows 使用同名 `.exe`。
+- 发布流程先完成四平台构建与 SHA-256 校验，再更新本注册表；历史 `packages/` 文件保留供旧版本使用。
