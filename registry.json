@@ -4,30 +4,30 @@
       "id": "opencode",
       "name": "OpenCode",
       "vendor": "OpenCode",
-      "version": "0.2.14",
-      "minAppVersion": "0.2.14",
+      "version": "0.2.15",
+      "minAppVersion": "0.2.15",
       "description": {
         "zh-CN": "接入 OpenCode CLI，保留原生会话和工具。",
         "en-US": "Use OpenCode CLI with native sessions and tools."
       },
-      "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.14/nautilo-plugin-opencode-0.2.14-win32-x64.tgz",
-      "sha256": "64f4c0d9f65cb5b6a521ede8b6a491a9dbc7be8ca50b5231c465b77a47c17404",
+      "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.15/nautilo-plugin-opencode-0.2.15-win32-x64.tgz",
+      "sha256": "2c900c734df92616f3722bd99cf21fbde574888f3dfe61b4bedd46ae6c161259",
       "platforms": {
         "win32-x64": {
-          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.14/nautilo-plugin-opencode-0.2.14-win32-x64.tgz",
-          "sha256": "64f4c0d9f65cb5b6a521ede8b6a491a9dbc7be8ca50b5231c465b77a47c17404"
+          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.15/nautilo-plugin-opencode-0.2.15-win32-x64.tgz",
+          "sha256": "2c900c734df92616f3722bd99cf21fbde574888f3dfe61b4bedd46ae6c161259"
         },
         "darwin-x64": {
-          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.14/nautilo-plugin-opencode-0.2.14-darwin-x64.tgz",
-          "sha256": "133c5ba816d299efcb2a29b5c2dcd701682a897da333d929943cdd48205b5da1"
+          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.15/nautilo-plugin-opencode-0.2.15-darwin-x64.tgz",
+          "sha256": "ff14845efcaf077b1ca80ece318585cf47c4960a32a519eeac19c9509d90f237"
         },
         "darwin-arm64": {
-          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.14/nautilo-plugin-opencode-0.2.14-darwin-arm64.tgz",
-          "sha256": "2e30488423586cbd4468e127b0b4ffc1f3ac99819fd1796b58bacd5b20fccf42"
+          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.15/nautilo-plugin-opencode-0.2.15-darwin-arm64.tgz",
+          "sha256": "807609e9434d17996735cb3bf88537152203c60851dc54eb4df5a2eae7d5678c"
         },
         "linux-x64": {
-          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.14/nautilo-plugin-opencode-0.2.14-linux-x64.tgz",
-          "sha256": "f25bc90aa5145d0c444b7306ee355aad7811dd25ebfd3fb20dfd40ad8b2d362c"
+          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.15/nautilo-plugin-opencode-0.2.15-linux-x64.tgz",
+          "sha256": "2ee20785b7dbba76e65000c12ead916537365f48c18170f32df26629e971e90f"
         }
       }
     },
@@ -35,30 +35,30 @@
       "id": "trae",
       "name": "Trae",
       "vendor": "ByteDance",
-      "version": "0.2.14",
-      "minAppVersion": "0.2.14",
+      "version": "0.2.15",
+      "minAppVersion": "0.2.15",
       "description": {
         "zh-CN": "接入开源 trae-agent 和 Trae CLI。",
         "en-US": "Use open-source trae-agent and Trae CLI."
       },
-      "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.14/nautilo-plugin-trae-0.2.14-win32-x64.tgz",
-      "sha256": "aaa9e466d2fd9da2ea0377a5ce065304f3a05cbe4a92ffd75c0b80f32971a4d7",
+      "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.15/nautilo-plugin-trae-0.2.15-win32-x64.tgz",
+      "sha256": "a0e575a1be318e2cf3acc8e7a8dd48c39622a7341a3e3246a5f8527c8b33ddb0",
       "platforms": {
         "win32-x64": {
-          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.14/nautilo-plugin-trae-0.2.14-win32-x64.tgz",
-          "sha256": "aaa9e466d2fd9da2ea0377a5ce065304f3a05cbe4a92ffd75c0b80f32971a4d7"
+          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.15/nautilo-plugin-trae-0.2.15-win32-x64.tgz",
+          "sha256": "a0e575a1be318e2cf3acc8e7a8dd48c39622a7341a3e3246a5f8527c8b33ddb0"
         },
         "darwin-x64": {
-          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.14/nautilo-plugin-trae-0.2.14-darwin-x64.tgz",
-          "sha256": "0d7296acbb6589f38729abacb7a1aa8c9b915f48279a065bccea57087583ffd0"
+          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.15/nautilo-plugin-trae-0.2.15-darwin-x64.tgz",
+          "sha256": "3ea743cffa346dcbcc5035c3907a09da44b91b5092985ba7adf88af0b5332649"
         },
         "darwin-arm64": {
-          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.14/nautilo-plugin-trae-0.2.14-darwin-arm64.tgz",
-          "sha256": "f8e58fd94c2fff5c577b973b5e3421fa92fa97e1396ce6e2cd9726ae4b23bc3d"
+          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.15/nautilo-plugin-trae-0.2.15-darwin-arm64.tgz",
+          "sha256": "6469df16e0fac8cb843fb3a500da1b992f74a8110ffa74cbbfc2794bba720c69"
         },
         "linux-x64": {
-          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.14/nautilo-plugin-trae-0.2.14-linux-x64.tgz",
-          "sha256": "5b7ef08590e64bb0f6b052f686a8ba463b926150260c38f4bb9a9a22f8203235"
+          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.15/nautilo-plugin-trae-0.2.15-linux-x64.tgz",
+          "sha256": "8c1f78a8352aa9c1fe819fffbd0a0616b71b28ccf823e9a52a2e4f591475ad86"
         }
       }
     },
@@ -66,30 +66,30 @@
       "id": "pi",
       "name": "Pi",
       "vendor": "Pi",
-      "version": "0.2.14",
-      "minAppVersion": "0.2.14",
+      "version": "0.2.15",
+      "minAppVersion": "0.2.15",
       "description": {
         "zh-CN": "接入 Pi coding agent，支持会话恢复与原生扩展。",
         "en-US": "Use Pi coding agent with session resume and native extensions."
       },
-      "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.14/nautilo-plugin-pi-0.2.14-win32-x64.tgz",
-      "sha256": "4c5498db9ac4ac76ae47dd452d4701d990d7009c1b4cff12b893c82be0b5b654",
+      "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.15/nautilo-plugin-pi-0.2.15-win32-x64.tgz",
+      "sha256": "0612a4bf789c90910d5a39ef110e634272f11a6d1937fc72d2f268839ca416fd",
       "platforms": {
         "win32-x64": {
-          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.14/nautilo-plugin-pi-0.2.14-win32-x64.tgz",
-          "sha256": "4c5498db9ac4ac76ae47dd452d4701d990d7009c1b4cff12b893c82be0b5b654"
+          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.15/nautilo-plugin-pi-0.2.15-win32-x64.tgz",
+          "sha256": "0612a4bf789c90910d5a39ef110e634272f11a6d1937fc72d2f268839ca416fd"
         },
         "darwin-x64": {
-          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.14/nautilo-plugin-pi-0.2.14-darwin-x64.tgz",
-          "sha256": "9c44ffd7dea7726d0ab76dabb425fef17be55fdd8f53dc8b1a31e366bacbff0e"
+          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.15/nautilo-plugin-pi-0.2.15-darwin-x64.tgz",
+          "sha256": "87b62a2fb6b92763ecb8b9981e1d036a8aeb72b9bbf9239da0f050f0f282f755"
         },
         "darwin-arm64": {
-          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.14/nautilo-plugin-pi-0.2.14-darwin-arm64.tgz",
-          "sha256": "c051d805ace88d38256e177f59ad4365ad04bc3af3fe440ee9f186809ae27029"
+          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.15/nautilo-plugin-pi-0.2.15-darwin-arm64.tgz",
+          "sha256": "6dd18251ff4b8f7ffed5d9bb8a7a8f0699a6c48c6f8503e6f2ee590e10804fc7"
         },
         "linux-x64": {
-          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.14/nautilo-plugin-pi-0.2.14-linux-x64.tgz",
-          "sha256": "79e0442845647fe5e93669aa22291c9743125e1a70854a6956a3c44522011677"
+          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.15/nautilo-plugin-pi-0.2.15-linux-x64.tgz",
+          "sha256": "43f0898b75a427642782aff744fc61c62ce6c48d9bb77df303577463aeec7a0f"
         }
       }
     },
@@ -97,30 +97,30 @@
       "id": "omp",
       "name": "Oh My Pi",
       "vendor": "Oh My Pi",
-      "version": "0.2.14",
-      "minAppVersion": "0.2.14",
+      "version": "0.2.15",
+      "minAppVersion": "0.2.15",
       "description": {
         "zh-CN": "接入 Oh My Pi，保留原生会话和扩展。",
         "en-US": "Use Oh My Pi with native sessions and extensions."
       },
-      "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.14/nautilo-plugin-omp-0.2.14-win32-x64.tgz",
-      "sha256": "3a0c0cb763fec85cd9fb3b49289aec2c8fadee7d540d1a7c4b9a824c8d664c9c",
+      "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.15/nautilo-plugin-omp-0.2.15-win32-x64.tgz",
+      "sha256": "c8e93796d1cda04206fe0e01dbada249c23ca8ed1812f550a224aa66b8fb68ab",
       "platforms": {
         "win32-x64": {
-          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.14/nautilo-plugin-omp-0.2.14-win32-x64.tgz",
-          "sha256": "3a0c0cb763fec85cd9fb3b49289aec2c8fadee7d540d1a7c4b9a824c8d664c9c"
+          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.15/nautilo-plugin-omp-0.2.15-win32-x64.tgz",
+          "sha256": "c8e93796d1cda04206fe0e01dbada249c23ca8ed1812f550a224aa66b8fb68ab"
         },
         "darwin-x64": {
-          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.14/nautilo-plugin-omp-0.2.14-darwin-x64.tgz",
-          "sha256": "17a04b40f3c63102c3a175d06db5de891b033472d43abaa69407cad79a0e0d6b"
+          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.15/nautilo-plugin-omp-0.2.15-darwin-x64.tgz",
+          "sha256": "a9af3f836d7d5a58d86ac80405228d1a7ae7f7e013602249f3f587989bd1bbed"
         },
         "darwin-arm64": {
-          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.14/nautilo-plugin-omp-0.2.14-darwin-arm64.tgz",
-          "sha256": "8beea0b1e984bf8ce3f1c81bd44d64277cf42b87d8305c1571ff5dae0b0c1453"
+          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.15/nautilo-plugin-omp-0.2.15-darwin-arm64.tgz",
+          "sha256": "d2b2474cb5ab4e4dafdb830a94ff643f124f9dfdaca4874fb9bb2de05b1ec1d7"
         },
         "linux-x64": {
-          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.14/nautilo-plugin-omp-0.2.14-linux-x64.tgz",
-          "sha256": "aef69639569648063571cf6a62691a525df044d2e10de10de47713c93349cdfe"
+          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.15/nautilo-plugin-omp-0.2.15-linux-x64.tgz",
+          "sha256": "878c359d224821fef3a03299d05816328022c1620743284ac56b6fcecb8b63b5"
         }
       }
     },
@@ -128,30 +128,30 @@
       "id": "commandcode",
       "name": "Command Code",
       "vendor": "Command Code",
-      "version": "0.2.14",
-      "minAppVersion": "0.2.14",
+      "version": "0.2.15",
+      "minAppVersion": "0.2.15",
       "description": {
         "zh-CN": "接入 Command Code CLI。",
         "en-US": "Use Command Code CLI."
       },
-      "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.14/nautilo-plugin-commandcode-0.2.14-win32-x64.tgz",
-      "sha256": "9df85a19277f593f9600fb96bd466f3bee81c9c3d55b79e5f989a76aa840b61c",
+      "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.15/nautilo-plugin-commandcode-0.2.15-win32-x64.tgz",
+      "sha256": "5de0193c3b002bffcc7bd53b87c56f5b3d0beaf512daf468eb1c7a77eda526ec",
       "platforms": {
         "win32-x64": {
-          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.14/nautilo-plugin-commandcode-0.2.14-win32-x64.tgz",
-          "sha256": "9df85a19277f593f9600fb96bd466f3bee81c9c3d55b79e5f989a76aa840b61c"
+          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.15/nautilo-plugin-commandcode-0.2.15-win32-x64.tgz",
+          "sha256": "5de0193c3b002bffcc7bd53b87c56f5b3d0beaf512daf468eb1c7a77eda526ec"
         },
         "darwin-x64": {
-          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.14/nautilo-plugin-commandcode-0.2.14-darwin-x64.tgz",
-          "sha256": "bca61c158b133a3e14060bf6c6c3295aad671d106c91e23da83b0fdb492e6d13"
+          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.15/nautilo-plugin-commandcode-0.2.15-darwin-x64.tgz",
+          "sha256": "a5599dfee75095be076f9e3e91cc36a7f6f67782cbefc7dc222ac4dd44774b83"
         },
         "darwin-arm64": {
-          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.14/nautilo-plugin-commandcode-0.2.14-darwin-arm64.tgz",
-          "sha256": "a379f37489e6b043fd6f090704f5b85b2914acf4cba0bca6b1d3d140e76c789e"
+          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.15/nautilo-plugin-commandcode-0.2.15-darwin-arm64.tgz",
+          "sha256": "2eeb9ea5e0bd6471a8b9c587e7057d4a2707b73ff7624d295a2a9924f253cd49"
         },
         "linux-x64": {
-          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.14/nautilo-plugin-commandcode-0.2.14-linux-x64.tgz",
-          "sha256": "0c834e677388343c911c07faea4b521f3370e9dfbe48d6e0aef0cc01b9db7a39"
+          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.15/nautilo-plugin-commandcode-0.2.15-linux-x64.tgz",
+          "sha256": "c39fe1ae09e8793629f6c6eada6c411e2535f92aa82392bec016d3202e1d8399"
         }
       }
     },
@@ -159,30 +159,30 @@
       "id": "deepseek",
       "name": "DeepSeek Harness",
       "vendor": "DeepSeek",
-      "version": "0.2.14",
-      "minAppVersion": "0.2.14",
+      "version": "0.2.15",
+      "minAppVersion": "0.2.15",
       "description": {
         "zh-CN": "接入 DeepSeek Harness，支持原生动态模式与 PTC。",
         "en-US": "Use DeepSeek Harness with native dynamic modes and PTC."
       },
-      "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.14/nautilo-plugin-deepseek-0.2.14-win32-x64.tgz",
-      "sha256": "e525ad4a0a141164896aac4145779d89139a3fd6f696b7736f6a0c5b773610ca",
+      "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.15/nautilo-plugin-deepseek-0.2.15-win32-x64.tgz",
+      "sha256": "3cbfb5112ee3c6ec25efe53660dfb4460a13878ae93ed18b375baa8a07c3a9e5",
       "platforms": {
         "win32-x64": {
-          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.14/nautilo-plugin-deepseek-0.2.14-win32-x64.tgz",
-          "sha256": "e525ad4a0a141164896aac4145779d89139a3fd6f696b7736f6a0c5b773610ca"
+          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.15/nautilo-plugin-deepseek-0.2.15-win32-x64.tgz",
+          "sha256": "3cbfb5112ee3c6ec25efe53660dfb4460a13878ae93ed18b375baa8a07c3a9e5"
         },
         "darwin-x64": {
-          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.14/nautilo-plugin-deepseek-0.2.14-darwin-x64.tgz",
-          "sha256": "03bd1b1a199da5493ea3a1ad0b7b41857e395b7e1e8cfc6e07441aced1900879"
+          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.15/nautilo-plugin-deepseek-0.2.15-darwin-x64.tgz",
+          "sha256": "b559d3ed3041049c766c7feff5d57b3ef72d516b42e7bd9ff7fcb0bfee7ce498"
         },
         "darwin-arm64": {
-          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.14/nautilo-plugin-deepseek-0.2.14-darwin-arm64.tgz",
-          "sha256": "ed0b35ff16057551d652ff5a5968eba9948c1786e62b6ee49b80320ae0db444a"
+          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.15/nautilo-plugin-deepseek-0.2.15-darwin-arm64.tgz",
+          "sha256": "16c0474717a047a7d0ca6624c845a76c495ecff9f91af3a53f15af3469d55f9b"
         },
         "linux-x64": {
-          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.14/nautilo-plugin-deepseek-0.2.14-linux-x64.tgz",
-          "sha256": "a37a023e506e69241aebd1078b3b6154a587903e155d508a6fc810623d3d6465"
+          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.15/nautilo-plugin-deepseek-0.2.15-linux-x64.tgz",
+          "sha256": "888abf5a41420a46d3edb163e8deba2d40a0569396dbcf7c463bfb4d421770a0"
         }
       }
     },
@@ -190,30 +190,30 @@
       "id": "codex-plugins",
       "name": "Codex Plugin Manager",
       "vendor": "Nautilo",
-      "version": "0.2.14",
-      "minAppVersion": "0.2.14",
+      "version": "0.2.15",
+      "minAppVersion": "0.2.15",
       "description": {
         "zh-CN": "管理 Codex 原生插件与授权。",
         "en-US": "Manage native Codex plugins and authorization."
       },
-      "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.14/nautilo-plugin-codex-plugins-0.2.14-win32-x64.tgz",
-      "sha256": "63991b4430f58f45a69883770ae081880bae8dff98a41829205c0b5b0f930e4f",
+      "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.15/nautilo-plugin-codex-plugins-0.2.15-win32-x64.tgz",
+      "sha256": "2f1056559efb58cd42e4252023524cecc9dc6eab7aaa4e7387ab5aa5b5284846",
       "platforms": {
         "win32-x64": {
-          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.14/nautilo-plugin-codex-plugins-0.2.14-win32-x64.tgz",
-          "sha256": "63991b4430f58f45a69883770ae081880bae8dff98a41829205c0b5b0f930e4f"
+          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.15/nautilo-plugin-codex-plugins-0.2.15-win32-x64.tgz",
+          "sha256": "2f1056559efb58cd42e4252023524cecc9dc6eab7aaa4e7387ab5aa5b5284846"
         },
         "darwin-x64": {
-          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.14/nautilo-plugin-codex-plugins-0.2.14-darwin-x64.tgz",
-          "sha256": "9d7c04a514e05095812690f46d9e58a5b54886e6ed01fce52a5f9fc037848505"
+          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.15/nautilo-plugin-codex-plugins-0.2.15-darwin-x64.tgz",
+          "sha256": "164bf57626718e91aaa775c50a611f79a4504c0eaa6b087fb9bb0c69608b0d6e"
         },
         "darwin-arm64": {
-          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.14/nautilo-plugin-codex-plugins-0.2.14-darwin-arm64.tgz",
-          "sha256": "7fd75628126760a5d1ae499e162c7100b5168d4131879fc64906292846412271"
+          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.15/nautilo-plugin-codex-plugins-0.2.15-darwin-arm64.tgz",
+          "sha256": "6e3ddffa7e09c5216176488d6e73698f89fa6815ca21738108478d8d5dcb73bb"
         },
         "linux-x64": {
-          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.14/nautilo-plugin-codex-plugins-0.2.14-linux-x64.tgz",
-          "sha256": "e12eeb791d8b6d3017e4fa36e052978987e04f222c5801337d783bdb64862e77"
+          "tarball": "https://github.com/zhufish-aa/Nautilo/releases/download/v0.2.15/nautilo-plugin-codex-plugins-0.2.15-linux-x64.tgz",
+          "sha256": "5778f0203c51a1dc1c2ae20d7061d6da867432bf5c2e1c0042622338a9b98092"
         }
       }
     }
