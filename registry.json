@@ -35,30 +35,30 @@
       "id": "trae",
       "name": "Trae",
       "vendor": "ByteDance",
-      "version": "0.2.17",
+      "version": "0.2.18",
       "minAppVersion": "0.2.16",
       "description": {
         "zh-CN": "接入开源 trae-agent 和 Trae CLI。",
         "en-US": "Use open-source trae-agent and Trae CLI."
       },
-      "tarball": "https://github.com/zhufish-aa/nautilo-provider-registry/releases/download/plugins-v0.2.17/nautilo-plugin-trae-0.2.17-win32-x64.tgz",
-      "sha256": "11f13bd304bc54ea8b585c867d613366f95d4910b36291a1cbb736d1631d0a8a",
+      "tarball": "https://github.com/zhufish-aa/nautilo-provider-registry/releases/download/plugins-v0.2.18/nautilo-plugin-trae-0.2.18-win32-x64.tgz",
+      "sha256": "7723f62eb90636682cf4ff28d9058db94b80a8fa6068a83dc7decac507353d5c",
       "platforms": {
         "win32-x64": {
-          "tarball": "https://github.com/zhufish-aa/nautilo-provider-registry/releases/download/plugins-v0.2.17/nautilo-plugin-trae-0.2.17-win32-x64.tgz",
-          "sha256": "11f13bd304bc54ea8b585c867d613366f95d4910b36291a1cbb736d1631d0a8a"
+          "tarball": "https://github.com/zhufish-aa/nautilo-provider-registry/releases/download/plugins-v0.2.18/nautilo-plugin-trae-0.2.18-win32-x64.tgz",
+          "sha256": "7723f62eb90636682cf4ff28d9058db94b80a8fa6068a83dc7decac507353d5c"
         },
         "darwin-x64": {
-          "tarball": "https://github.com/zhufish-aa/nautilo-provider-registry/releases/download/plugins-v0.2.17/nautilo-plugin-trae-0.2.17-darwin-x64.tgz",
-          "sha256": "752b0678a3018a69d525bf3b169f887398120edb0cf6c15207bbfdd1824d65e4"
+          "tarball": "https://github.com/zhufish-aa/nautilo-provider-registry/releases/download/plugins-v0.2.18/nautilo-plugin-trae-0.2.18-darwin-x64.tgz",
+          "sha256": "a792e1feb2e0a133fd57be4e889914749c5802fd23ab9fb329706a1f041e1be6"
         },
         "darwin-arm64": {
-          "tarball": "https://github.com/zhufish-aa/nautilo-provider-registry/releases/download/plugins-v0.2.17/nautilo-plugin-trae-0.2.17-darwin-arm64.tgz",
-          "sha256": "1ab96bc5b772a1f72aca970dfd8afa626f5ce93165e3247eeeec9f836a4a82d3"
+          "tarball": "https://github.com/zhufish-aa/nautilo-provider-registry/releases/download/plugins-v0.2.18/nautilo-plugin-trae-0.2.18-darwin-arm64.tgz",
+          "sha256": "b7a666f37c5d267794db4824bf71787678ae52139b40896b7940571aed9c2de7"
         },
         "linux-x64": {
-          "tarball": "https://github.com/zhufish-aa/nautilo-provider-registry/releases/download/plugins-v0.2.17/nautilo-plugin-trae-0.2.17-linux-x64.tgz",
-          "sha256": "eafb552094a2b08243508dbde51586950bb78a66465897aa0b5614c493e4a55b"
+          "tarball": "https://github.com/zhufish-aa/nautilo-provider-registry/releases/download/plugins-v0.2.18/nautilo-plugin-trae-0.2.18-linux-x64.tgz",
+          "sha256": "2e18653bd06625c5f59389231a3cfa6b1ea00f2a4bb9853ab1f55ad9b1f6e8c8"
         }
       }
     },
@@ -66,30 +66,30 @@
       "id": "pi",
       "name": "Pi",
       "vendor": "Pi",
-      "version": "0.2.17",
+      "version": "0.2.18",
       "minAppVersion": "0.2.16",
       "description": {
         "zh-CN": "接入 Pi coding agent，支持会话恢复与原生扩展。",
         "en-US": "Use Pi coding agent with session resume and native extensions."
       },
-      "tarball": "https://github.com/zhufish-aa/nautilo-provider-registry/releases/download/plugins-v0.2.17/nautilo-plugin-pi-0.2.17-win32-x64.tgz",
-      "sha256": "c632e06a33fb421ce772e6879ca98735fd2ebdd950b47db2245671a9cb63ec3f",
+      "tarball": "https://github.com/zhufish-aa/nautilo-provider-registry/releases/download/plugins-v0.2.18/nautilo-plugin-pi-0.2.18-win32-x64.tgz",
+      "sha256": "ca94323d51835fdc7b3b85be3a5cffca2517f2ff14f3080df85e3ec86dfd7310",
       "platforms": {
         "win32-x64": {
-          "tarball": "https://github.com/zhufish-aa/nautilo-provider-registry/releases/download/plugins-v0.2.17/nautilo-plugin-pi-0.2.17-win32-x64.tgz",
-          "sha256": "c632e06a33fb421ce772e6879ca98735fd2ebdd950b47db2245671a9cb63ec3f"
+          "tarball": "https://github.com/zhufish-aa/nautilo-provider-registry/releases/download/plugins-v0.2.18/nautilo-plugin-pi-0.2.18-win32-x64.tgz",
+          "sha256": "ca94323d51835fdc7b3b85be3a5cffca2517f2ff14f3080df85e3ec86dfd7310"
         },
         "darwin-x64": {
-          "tarball": "https://github.com/zhufish-aa/nautilo-provider-registry/releases/download/plugins-v0.2.17/nautilo-plugin-pi-0.2.17-darwin-x64.tgz",
-          "sha256": "6b33b19b7eaef1014ed55e5c7bf429dc9a4dd779d01e166567cef682fa337b2d"
+          "tarball": "https://github.com/zhufish-aa/nautilo-provider-registry/releases/download/plugins-v0.2.18/nautilo-plugin-pi-0.2.18-darwin-x64.tgz",
+          "sha256": "0fdc79925a16f8ff983257b8a2c95a2d4d738a325c8ca84de46498cc2b902232"
         },
         "darwin-arm64": {
-          "tarball": "https://github.com/zhufish-aa/nautilo-provider-registry/releases/download/plugins-v0.2.17/nautilo-plugin-pi-0.2.17-darwin-arm64.tgz",
-          "sha256": "b8131165f2939b2bedea05599e9ee648468397ba9f5ab22b7d11976feb47b6dd"
+          "tarball": "https://github.com/zhufish-aa/nautilo-provider-registry/releases/download/plugins-v0.2.18/nautilo-plugin-pi-0.2.18-darwin-arm64.tgz",
+          "sha256": "02d9d32057a52a17e1ac653408345a95d2e06e5266a70c6527678fa85bd4a34f"
         },
         "linux-x64": {
-          "tarball": "https://github.com/zhufish-aa/nautilo-provider-registry/releases/download/plugins-v0.2.17/nautilo-plugin-pi-0.2.17-linux-x64.tgz",
-          "sha256": "d69c9d9a9ac42fdf9c48869ba4914f2a89b66fc4f4270fdcf87071b4add90664"
+          "tarball": "https://github.com/zhufish-aa/nautilo-provider-registry/releases/download/plugins-v0.2.18/nautilo-plugin-pi-0.2.18-linux-x64.tgz",
+          "sha256": "281255cf942ad646f78fe665159ca418beee5a7ef59cadf534c751b9f7b5040d"
         }
       }
     },
